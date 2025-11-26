@@ -1,6 +1,11 @@
-## "# worshop2" 
-## Name:Preethi S
-## Reg no : 212223230157
+## worshop2 - Building an AI Classifier: Identifying Cats, Dogs & Pandas with PyTorch
+## Name: T.Roshini
+## Reg no : 212223230175
+
+## Aim:
+To build an AI Classifier that identifies cats, dogs and pandas with PyTorch.
+
+## Program:
 ```
 import torch
 
@@ -193,7 +198,8 @@ plt.show()
 
 ```
 
-
+## Result:
+Thus, build an AI Classifier that identifies cats, dogs and pandas with PyTorch has been done successfully.
 
 
 
